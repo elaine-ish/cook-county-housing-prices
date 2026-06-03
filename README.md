@@ -1,5 +1,3 @@
-# cook-county-housing-model
-
 # Cook County Housing Price Prediction
 
 ## Overview
@@ -35,7 +33,7 @@ The final model demonstrates the ability to predict housing prices using enginee
 
 ## Files
 
-* `housing_model.ipynb` — Complete analysis and modeling workflow
+* `projA2.ipynb` — Complete analysis and modeling workflow
 
 ## Course Context
 
