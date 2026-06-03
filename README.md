@@ -2,7 +2,13 @@
 
 ## Overview
 
-This project develops a predictive model for residential property values in Cook County, Illinois. Using housing characteristics and property assessment data, the goal is to estimate sale prices and evaluate the effectiveness of different feature engineering and modeling approaches.
+This project develops and evaluates a supervised machine learning framework for residential property valuation in Cook County, Illinois. Using a large-scale dataset of housing transactions and property characteristics, the analysis investigates the relationship between structural, geographic, and assessment-related features and their influence on market sale prices.
+
+The workflow begins with extensive data cleaning, preprocessing, and exploratory data analysis (EDA) to identify patterns, outliers, and feature distributions. Feature engineering techniques, including variable transformations, categorical encoding, and interaction feature construction, are applied to improve model expressiveness and predictive performance. Logarithmic transformations are utilized to address skewness in housing price distributions and stabilize variance across observations.
+
+Multiple linear regression models are developed and iteratively refined through feature selection and model diagnostics. Model performance is evaluated using training and validation datasets, with predictive accuracy assessed through RMSE. The project examines the impact of engineered features, nonlinear transformations, and domain-specific housing attributes on model generalization and valuation accuracy.
+
+Overall, this project demonstrates an end-to-end data science pipeline encompassing data acquisition, preprocessing, exploratory analysis, statistical modeling, feature engineering, predictive analytics, and quantitative model evaluation using Python, Pandas, NumPy, and scikit-learn.
 
 ## Skills Demonstrated
 
