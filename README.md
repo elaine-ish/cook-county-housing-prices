@@ -17,7 +17,7 @@ This project develops a predictive model for residential property values in Cook
 
 ## Dataset
 
-The dataset contains residential property records from Cook County, including property characteristics, location information, and sale prices.
+The dataset contains residential property records from Cook County, including property characteristics, location information, and sale prices. The original dataset was provided as part of UC Berkeley Data 100 coursework and is not included in this repository. The notebook demonstrates the complete data cleaning, feature engineering, and modeling workflow.
 
 ## Methodology
 
@@ -38,5 +38,3 @@ The final model demonstrates the ability to predict housing prices using enginee
 ## Course Context
 
 Originally completed as part of UC Berkeley Data 100: Principles and Techniques of Data Science.
-
-The original dataset was provided as part of UC Berkeley Data 100 coursework and is not included in this repository. The notebook demonstrates the complete data cleaning, feature engineering, and modeling workflow.
